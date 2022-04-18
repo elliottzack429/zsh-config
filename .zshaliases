@@ -1,1 +1,6 @@
-/Users/Zachary.Elliott/.zshaliases
+alias srcrc="source ~/.zshrc"
+alias ali="cat ~/.zshaliases"
+alias cdalks="cd ~/Documents/CloudRailway/ALKS"
+alias cdalksweb="cd ~/Documents/CloudRailway/ALKSWeb"
+alias cdalkscli="cd ~/Documents/CloudRailway/ALKSCli"
+alias grepi="grep -Inri --color"
